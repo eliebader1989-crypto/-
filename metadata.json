@@ -1,0 +1,6 @@
+{
+  "name": "Millionaire 2-Team Battle (من سيربح المليون)",
+  "description": "A 2-Team multiplayer quiz battle game inspired by Who Wants to Be a Millionaire with Steal the Point mechanics, 15-step prize ladder, team lifelines, bilingual Arabic/English support, and AI question generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

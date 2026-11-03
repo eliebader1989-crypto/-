@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan to increase the per-turn countdown timer from 30 seconds to a fixed 60 seconds (1 minute) for both regular turns and steal opportunity turns, including host timer reset controls and bilingual UI labels.",
+  "updatedAt": "2026-11-03T11:57:49.726010824Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
